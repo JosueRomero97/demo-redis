@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class RedisController {
-
+//bs4SN7uGb0GHAiwAhVdoB6FnrRvD69wR0AzCaHoogNg=
     @Autowired
     private StringRedisTemplate template;
 
