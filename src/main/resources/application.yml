@@ -4,7 +4,7 @@ spring:
   data:
     redis:
       port: 6380
-      host: rd-webfija-product-dev.redis.cache.windows.net
-      password: aaa
+      host:
+      password:
       ssl:
         enabled: true
