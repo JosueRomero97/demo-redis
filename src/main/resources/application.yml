@@ -1,0 +1,10 @@
+spring:
+  cache:
+    type: redis
+  data:
+    redis:
+      port: 6380
+      host: rd-webfija-product-dev.redis.cache.windows.net
+      password: bs4SN7uGb0GHAiwAhVdoB6FnrRvD69wR0AzCaHoogNg=
+      ssl:
+        enabled: true
